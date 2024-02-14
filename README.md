@@ -1,6 +1,6 @@
-# my_tflit_app
+# DFY_tflite app
 
-A new Flutter project.
+Demo of Diabetic Foot Ulcer detection app.
 
 ## Getting Started
 
