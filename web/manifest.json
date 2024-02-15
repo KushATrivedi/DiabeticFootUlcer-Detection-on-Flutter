@@ -1,6 +1,6 @@
 {
-    "name": "my_tflit_app",
-    "short_name": "my_tflit_app",
+    "name": "DFUCopy",
+    "short_name": "DFUCopy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

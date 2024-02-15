@@ -1,4 +1,4 @@
-# my_tflit_app
+# DFUCopy
 
 A new Flutter project.
 
