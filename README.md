@@ -1,4 +1,5 @@
-# DFY_tflite app
+>>>> ver1
+# DFUCopy
 
 Demo of Diabetic Foot Ulcer detection app.
 

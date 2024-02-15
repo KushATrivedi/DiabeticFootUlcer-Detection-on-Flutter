@@ -1,4 +1,4 @@
-package com.example.my_tflit_app
+package com.example.DFUCopy
 
 import io.flutter.embedding.android.FlutterActivity
 
