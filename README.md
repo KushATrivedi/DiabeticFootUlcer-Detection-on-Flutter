@@ -1,6 +1,7 @@
+>>>> ver1
 # DFUCopy
 
-A new Flutter project.
+Demo of Diabetic Foot Ulcer detection app.
 
 ## Getting Started
 
